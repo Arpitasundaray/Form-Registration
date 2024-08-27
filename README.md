@@ -1,1 +1,1 @@
-# Student registration form using servlet and jsp page
+# Student registration form using servlet and jsp page.
